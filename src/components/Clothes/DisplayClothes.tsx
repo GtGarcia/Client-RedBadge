@@ -181,13 +181,13 @@ class ClothesDisplay extends Component<TypeProps, StateType> {
       )}
     </PopupState>
               </TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.shoeName}|</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.brandName}</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.size}</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.condition}</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.sameClothes}</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.buyPrice}</TableCell>
-              <TableCell sx = {{fontSize: 10, fontFamily: 'Hind'}} align="center">{myClothes.sellPrice}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.clothesName}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.brandName}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.size}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.condition}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.sameClothes}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.buyPrice}</TableCell>
+              <TableCell sx = {{fontSize: 12, fontFamily: 'Hind'}} align="center">{myClothes.sellPrice}</TableCell>
             </TableRow>
           ))}
         </TableBody>
