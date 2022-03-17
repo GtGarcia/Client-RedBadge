@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+
+.clothesFont {
+    font-family: 'Hind';
+    position: absolute;
+    top: 130px;
+    left: 250px;
+    width: 50%;
+    font-size: 12px;
+}
+
+.clothesTable {
+    font-family: 'Hind';
+    padding-top: 100px;
+    position: relative;
+    left: 50px;
+    top: 90px;
+    width: 100%;
+    padding-right: 100px;
+}
+
+
+#clothesNameDisplay {
+    font-family: 'Hind';
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#clothesIconFont {
+    font-family: 'Hind';
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding-left: 10px;
+    position: relative;
+    bottom: 2px;
+    left: 430px;
+}
+
+
+#iconFont:hover {
+    color: rgb(116, 113, 113);
+}
+
+#iconMovement {
+    padding-left: 100px;
+}
+
+

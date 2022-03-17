@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+
+
+
+
+
+.background {
+    background-color: black;
+    
+}
+
+#HomePageIMG img {
+    position: absolute;
+    top: 180px;
+    width: 290px;
+    height: 250px;
+    margin-left: 440px;
+}
+
+.homeFontTitle {
+    font-family: 'Hind';
+    position: absolute;
+    top: 470px;
+    left: 350px;
+    font-weight: bold;
+
+}
+
+
+.homeFontTitleTwo {
+    font-family: 'Hind';
+    position: absolute;
+    top: 555px;
+    left: 350px;
+}
+
+.homeFontBottom {
+    font-family: 'Hind';
+    font-size: 40px;
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 1300px;
+    left: 380px;
+}
+
+.homeFontBottom:hover{
+    color: #74b9ff;
+}
+
+.homeFont {
+    font-family: 'Hind';
+    position: absolute;
+    top: 850px;
+    left: 150px;
+    right: 150px;
+}

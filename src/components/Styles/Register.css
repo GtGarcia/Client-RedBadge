@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+
+.registerFont {
+    font-family: 'Hind';
+    position: absolute;
+    top: 140px;
+    left: 250px;
+    width: 50%;
+    font-size: 10px;
+}
+
+#registerLogo {
+    position: absolute;
+    top: 150px;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    opacity: 30%;
+    
+    
+}
+
+.successMessageFont{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+}
+.successMessageFont:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    color: #74b9ff;
+}
+
+#registerSpacing {
+    padding-bottom: 20px;
+}
+
+#submitButtons {
+    position: relative;
+    left: 1px;
+}
