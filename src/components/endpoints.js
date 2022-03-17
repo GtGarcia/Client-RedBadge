@@ -18,3 +18,5 @@ export const EndPoints = {
         seeMy: '/clothes/mine'
     }
 }
+
+export const APIURL = 'http://localhost:3000'

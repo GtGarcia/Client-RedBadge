@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+
+footer{
+    font-family: 'Hind';
+    position: absolute;
+    left: 0px;
+    top: 1650px;
+    width: 100%;
+    background-color: #74b9ff;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
