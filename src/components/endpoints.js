@@ -19,4 +19,4 @@ export const EndPoints = {
     }
 }
 
-export const APIURL = 'http://localhost:3000'
+export const APIURL = 'https://gtg-boxout-s.herokuapp.com'
