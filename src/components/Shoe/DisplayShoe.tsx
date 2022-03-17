@@ -203,7 +203,7 @@ class DisplayShoe extends Component<TypeProps, StateType> {
       )}
     </PopupState>
               </TableCell>
-              <TableCell sx = {{fontSize: 12, paddingLeft: 5, fontFamily: 'Hind'}} align="center">{myShoe.shoeName}|</TableCell>
+              <TableCell sx = {{fontSize: 12, paddingLeft: 5, fontFamily: 'Hind'}} align="center">{myShoe.shoeName}</TableCell>
               <TableCell sx = {{fontSize: 12, paddingLeft: 10, fontFamily: 'Hind'}} align="center">{myShoe.brandName}</TableCell>
               <TableCell sx = {{fontSize: 12, paddingLeft: 10, fontFamily: 'Hind'}} align="center">{myShoe.size}</TableCell>
               <TableCell sx = {{fontSize: 12, paddingLeft: 10, fontFamily: 'Hind'}} align="center">{myShoe.condition}</TableCell>
